@@ -102,6 +102,7 @@ button {
 
 .gif-wrap {
   background-color: #fff;
+  border: 1px solid #c1c1c1;
   margin-bottom: .8em;
   position: relative;
 }
